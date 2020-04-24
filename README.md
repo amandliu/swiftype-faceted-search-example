@@ -6,7 +6,7 @@ This is a simple read-only e-commerce application designed to demonstrate basics
 
 1. Clone this repository.
 
-2. Open `index.html` in your browser to start exploring the example application. You are all set!
+2. Open `index.html` in your browser to start exploring the example application.
 
 ## Using the example application
 
